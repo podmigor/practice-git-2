@@ -1,2 +1,3 @@
 commit 1 text
 commit 2 text
+commit 3 text
